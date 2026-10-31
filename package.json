@@ -1,0 +1,9 @@
+{
+  "name": "college-fee-system",
+  "version": "1.0.0",
+  "description": "Simple college fee system (pure Node.js)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
